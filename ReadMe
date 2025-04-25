@@ -1,4 +1,1 @@
-I created a trivia app with the parent component App.jsx which passes props to the child components,
-Question.jsx and Result.jsx. The question form is on the App.Jsx page, which then passes the inputs to the
-Question.jsx page, which then passes the answer to the Results.jsx page, which evaluates whether the answer was 
-correct and then gives the option to get another question.
+I created a trivia app with the parent component App.jsx which passes props to the child components, Question.jsx and Result.jsx. The question form is on the App.Jsx page, which then passes the inputs to the Question.jsx page, which then passes the answer to the Results.jsx page, which evaluates whether the answer was correct and then gives the option to get another question.
